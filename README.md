@@ -10,4 +10,5 @@ ref: [WebSysyique](http://websystique.com/spring-4-mvc-tutorial/)
 
 - Aug 26, 2016
 
-	Getting Start
+	- Getting Start
+	- Validation and Resource Handling (Not Complete)
