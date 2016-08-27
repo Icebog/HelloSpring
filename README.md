@@ -12,3 +12,7 @@ ref: [WebSysyique](http://websystique.com/spring-4-mvc-tutorial/)
 
 	- Getting Start
 	- Validation and Resource Handling (Not Complete)
+	
+- Aug 27, 2016
+ 	- Used annotations to set up spring project
+ 	- Basic form and validation
